@@ -1,0 +1,12 @@
+{
+	"Enabled": true,
+	"RequiresHandle": true,
+	"ToolTip": "",
+	"Grip": [0, 5.960464477539063e-8, -0.0000019073486328125, 0, 2.32819569179199e-10, -1, -4.447067425417117e-8, 1, 2.32819569179199e-10, 1, 4.447067070145749e-8, 1.0353643537855774e-17],
+	"CanBeDropped": true,
+	"WorldPivot": [-24.724998474121094, 0.5500040054321289, -3.75, 1, 0, 0, 0, 1, 0, 0, 0, 1],
+	"LevelOfDetail": "Enum.ModelLevelOfDetail.Automatic",
+	"Class": "Tool",
+	"TextureId": "",
+	"ModelStreamingMode": "Enum.ModelStreamingMode.Default"
+}
